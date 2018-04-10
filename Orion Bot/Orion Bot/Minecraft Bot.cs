@@ -18,6 +18,9 @@ namespace Discord_Bot__McServer_
         CommandService _commands;
         IServiceProvider _services;
 
+        public ulong mcChannelID = 432947016298004490;
+        public ulong mcServerID = 432945835828051979;
+
         public Minecraft_Bot()
         {
 
@@ -34,7 +37,7 @@ namespace Discord_Bot__McServer_
 
             string botToken = "NDMyOTQyNDYyOTQwNDc5NDk4.Da1Hpg.7gv-Uop9zOr8bt8TnHT6B1yU0DA";
 
-            await RegisterCommandAsync();
+            //await RegisterCommandAsync();
 
             await _client.LoginAsync(TokenType.Bot, botToken);
 
@@ -43,16 +46,24 @@ namespace Discord_Bot__McServer_
             await Task.Delay(-1);
         }
 
-        private async Task RegisterCommandAsync()
+        public void WriteInMC(string text)
         {
-            _client.MessageReceived += HandleCommandAsync();
-
-            await _commands.AddModuleAsync(Assembly.GetEntryAssembly());
+            _client.GetGuild(mcServerID).GetTextChannel(mcChannelID).SendMessageAsync(text);
         }
 
-        private Task HandleCommandAsync(SocketMessage arg)
-        {
-            await
-        }           
+        //public async Task RegisterCommandAsync()
+        //{
+        //    _client.MessageReceived += HandleCommandAsync;
+
+        //    await _commands.AddModuleAsync(Assembly.GetEntryAssembly());
+        //}
+
+        //private async Task HandleCommandAsync(SocketMessage arg)
+        //{
+        //    var message = arg as SocketMessage;
+
+        //    if (message is null || message.Author.IsBot)
+        //        return;
+        //}
     }
 }
