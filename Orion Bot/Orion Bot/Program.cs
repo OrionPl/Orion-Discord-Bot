@@ -3,6 +3,7 @@ using Discord.Commands;
 using Discord.Net;
 using Discord.WebSocket;
 using Microsoft.Extensions.DependencyInjection;
+using Orion_Bot;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -36,17 +37,21 @@ namespace Discord_Bot__McServer_
             program.StartServerWorker.DoWork += program.StartServer;
 
 
-            if (Console.ReadLine() == "write")
+            //if (Console.ReadLine() == "write")
+            //{
+            //    program.WriteInMC("lol");
+            //}
+
+            //if (Console.ReadLine() == "start minecraft server")
+            //{
+            //   program.StartServerWorker.RunWorkerAsync();
+            //}
+            if (Console.ReadLine() == "start ui")
             {
-                program.WriteInMC("lol");
+                Main mainUI = new Main();
+                mainUI.Show();
             }
-
-            if (Console.ReadLine() == "start minecraft server")
-            {
-               program.StartServerWorker.RunWorkerAsync();
-            }
-
-
+            Console.ReadLine();
         }
 
         public void StartServer(object sender, DoWorkEventArgs e)

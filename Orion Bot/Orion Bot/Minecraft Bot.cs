@@ -3,16 +3,22 @@ using Discord.Commands;
 using Discord.Net;
 using Discord.WebSocket;
 using Microsoft.Extensions.DependencyInjection;
+using Orion_Bot;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
+
 
 namespace Discord_Bot__McServer_
 {
-    class Minecraft_Bot
+    public class Minecraft_Bot
     {
         DiscordSocketClient _client;
         CommandService _commands;

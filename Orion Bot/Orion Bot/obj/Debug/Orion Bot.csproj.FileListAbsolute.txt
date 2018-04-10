@@ -28,3 +28,6 @@ C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bo
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csproj.CoreCompileInputs.cache
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.exe
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.pdb
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion_Bot.Main.resources
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csproj.GenerateResource.cache
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csproj.CopyComplete
