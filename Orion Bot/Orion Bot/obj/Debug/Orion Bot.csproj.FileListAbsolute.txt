@@ -1,3 +1,8 @@
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csprojResolveAssemblyReference.cache
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion_Bot.Form1.resources
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion_Bot.Properties.Resources.resources
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csproj.GenerateResource.cache
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csproj.CoreCompileInputs.cache
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Orion Bot.exe.config
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Orion Bot.exe
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Orion Bot.pdb
@@ -9,10 +14,26 @@ C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Discord.
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Discord.Net.WebSocket.dll
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Microsoft.Win32.Primitives.dll
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.AppContext.dll
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Collections.Immutable.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Console.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Globalization.Calendars.dll
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Interactive.Async.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.IO.Compression.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.IO.FileSystem.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Net.Http.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Net.Sockets.dll
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Xml.ReaderWriter.dll
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Discord.Net.Commands.xml
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Discord.Net.Core.xml
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Discord.Net.Rest.xml
@@ -23,11 +44,8 @@ C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Microsof
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\Newtonsoft.Json.xml
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Collections.Immutable.xml
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\bin\Debug\System.Interactive.Async.xml
-C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csprojResolveAssemblyReference.cache
-C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csproj.CoreCompileInputs.cache
+C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csproj.CopyComplete
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.exe
 C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.pdb
-C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion_Bot.Main.resources
-C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csproj.GenerateResource.cache
-C:\Projects\DiscordBots\Orion-Discord-Bot\Orion Bot\Orion Bot\obj\Debug\Orion Bot.csproj.CopyComplete
